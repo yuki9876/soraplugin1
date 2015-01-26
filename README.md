@@ -1,0 +1,2 @@
+# soraplugin1
+testplugin
